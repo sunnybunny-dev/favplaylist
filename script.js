@@ -4,68 +4,68 @@ const tracksList = [
         title: "Yellow",
         artist: "Wisp",
         art: "images/wisp.webp",
-        url: "audio/wisp.mp3"
+        url: "Audio/wisp.mp3"
     },
     {
         title: "Something About You",
         artist: "Eyedress",
         art: "images/somethingaboutyou.jpg",
-        url: "audio/somethingaboutyou.mp3"
+        url: "Audio/somethingaboutyou.mp3"
         
     },
     {
         title: "Better Things",
         artist: "Aespa",
         art: "images/aespa .jpg",
-        url:"audio/aespa.mp3"
+        url:"Audio/aespa.mp3"
         
     },
     {
         title: "Summer Wine",
         artist: "Lana Del Rey",
         art: "images/summer wine.jpg", 
-        url:"audio/summerwine.mp3"
+        url:"Audio/summerwine.mp3"
        
     },
     {
         title: "Hard to Face Reality",
         artist: "Justin Bieber",
         art: "images/reality.jpg",
-        url:"audio/reality.mp3" 
+        url:"Audio/reality.mp3" 
         
     },
     {
         title: "Number One Girl",
         artist: "Rosé",
         art: "images/rose.jpg", 
-        url:"audio/no1girl.mp3"
+        url:"Audio/no1girl.mp3"
         
     },
     {
         title: "The Night We Met",
         artist: "Lord Huron (feat. Phoebe Bridgers)",
         art: "images/night.jpg",
-        url:"audio/night.mp3" 
+        url:"Audio/night.mp3" 
         
     },
     {
         title: "Midnight Rain",
         artist: "Taylor Swift",
         art: "images/midnightrain.webp",
-        url:"audio/midnightrain.mp3"
+        url:"Audio/midnightrain.mp3"
        
     },
     {
         title: "Bad Idea",
         artist: "Tessa Violet",
         art: "images/badideas.jpg", 
-        url: "audio/badidea.mp3"
+        url: "Audio/badidea.mp3"
     },
     {
         title: "POV",
         artist: "Ariana Grande",
         art: "images/pov.jpg", 
-        url: "audio/pov.mp3"
+        url: "Audio/pov.mp3"
     }
 ];
 // Instantiating the native HTML5 Audio Engine Subsystem
