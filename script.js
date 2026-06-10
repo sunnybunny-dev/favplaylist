@@ -16,7 +16,7 @@ const tracksList = [
     {
         title: "Better Things",
         artist: "Aespa",
-        art: "images/aespa .jpg",
+        art: "images/aespa.jpg",
         url:"Audio/aespa.mp3"
         
     },
