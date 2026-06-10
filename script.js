@@ -3,13 +3,13 @@ const tracksList = [
     {
         title: "Yellow",
         artist: "Wisp",
-        art: "images/Wisp.webp",
+        art: "images/wisp.webp",
         url: "audio/wisp.mp3"
     },
     {
         title: "Something About You",
         artist: "Eyedress",
-        art: "images/Something About You.jpg",
+        art: "images/somethingaboutyou.jpg",
         url: "audio/somethingaboutyou.mp3"
         
     },
@@ -58,15 +58,14 @@ const tracksList = [
     {
         title: "Bad Idea",
         artist: "Tessa Violet",
-        art: "images/Bad Ideas.jpg",
-        url:"audio/badidea.mp3" 
-    },    
+        art: "images/badideas.jpg", 
+        url: "audio/badidea.mp3"
+    },
     {
         title: "POV",
         artist: "Ariana Grande",
-        art: "images./Pov.jpg",
-        url:"audio/pov.mp3" 
-       
+        art: "images/pov.jpg", 
+        url: "audio/pov.mp3"
     }
 ];
 // Instantiating the native HTML5 Audio Engine Subsystem
